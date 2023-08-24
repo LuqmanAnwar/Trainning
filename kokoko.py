@@ -3,7 +3,6 @@ import pandas as pd
 import streamlit as st
 import pickle
 
-
 st.title('Bank Loan')
 st.text('Loan Approval')
 
